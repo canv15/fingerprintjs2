@@ -1,4 +1,6 @@
 # Fingerprintjs2
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ffingerprintjs2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ffingerprintjs2?ref=badge_shield)
+
 
 [![](https://travis-ci.org/Valve/fingerprintjs2.svg?branch=master)](https://travis-ci.org/Valve/fingerprintjs2)
 [![](https://badges.gitter.im/Valve/fingerprintjs2.svg)](https://gitter.im/Valve/fingerprintjs2)
@@ -229,3 +231,6 @@ To speed up fingerprint computation, you can exclude font detection (~ 40ms), ca
 https://player.vimeo.com/video/151208427
 
 #### License: MIT or Apache, whichever you prefer.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ffingerprintjs2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ffingerprintjs2?ref=badge_large)
